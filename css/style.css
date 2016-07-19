@@ -1,0 +1,102 @@
+body {
+	background-image: url("../img/fondo.png");
+}
+
+header {
+	font-family: cursive;
+	font-size: 18px;
+	transform: rotate(-90deg);
+    float: left;
+    padding: 150px 140px 0px 5px ;
+    margin-left: -190px;
+    color: #D21616;
+}
+.summary {
+	background-color: rgba(247, 252, 180, .4);
+	text-align: right;
+	font-size: 20px;
+    height: 300px;
+    padding-right: 50px;
+    padding-top: 100px;
+    color: #150F6F;
+    font-weight: bold;
+}
+.preamble {
+	background-color: rgba(154, 213, 242, .2);
+	text-align: center;
+	font-size: 16px;
+	width: 300px;
+	height: 400px;
+}
+.preamble h3 {
+	font-size: 30px;
+	color: #150F6F;
+}
+.preamble p {
+	font-weight: bold;
+}
+.explanation {
+	background-color: rgba(246, 183, 253, .2);
+	width: 280px;
+    float: right;
+    display: inline-block;
+    margin-top: -420px;
+    text-align: center;
+    color: #242C23;
+    font-weight: bold;
+}
+.explanation p {
+	font-size: 15px;
+}
+.explanation h3 {
+	color: red;
+}
+.participation {
+	background-color: rgba(190, 246, 77, .3);
+	height: 500px;
+}
+.participation p {
+	text-align: center;
+	font-size: 20px;
+}
+.participation h3 {
+	transform: rotate(90deg);
+	float: right;
+	font-family: cursive;
+	text-transform: uppercase;
+	padding: 350px 0px 0px 0px;
+	margin-right: -200px;
+	font-size: 30px;
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
